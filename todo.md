@@ -7,9 +7,9 @@
     - [] add SQL to database.sql
 
 ## Setup index.html
-    - [] h1 header
-    - [] 1 task input
-    - [] complete button
-    - [] delete button
+    - [x] h1 header
+    - [x] 1 task input
+    - [x] complete button
+    - [x] delete button
     - [] task list table
         - [] td 
