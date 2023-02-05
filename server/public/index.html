@@ -6,10 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./vendors/jquery.js"></script>
     <script src="./client.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./styles/styles.css">
     <title>todo list</title>
 </head>
-<body>
-    
+<section id="addNewTask">
+    <h2>To Do:</h2>
+    <input type="text" id="taskInput" placeholder="Add Item">
+    <!-- <button id="submitBtn">submit 〰️</button> -->
+    <button type="button" id="addButton">Add Task</button>
+  </section>
+  <section>
+    <h2>Tasks</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Task</th>
+        </tr>
+      </thead>
+      <tbody id="viewTasks">
+      </tbody>
+    </table>
+  </section>
 </body>
 </html>
