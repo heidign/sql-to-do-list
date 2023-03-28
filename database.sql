@@ -6,3 +6,7 @@ CREATE TABLE todo (
 	"isComplete" boolean not null,
 	"timeCompleted" date
 );
+
+-- insertion example
+INSERT INTO todo ("task", "isComplete")
+VALUES ('Submit Job Application', false);
