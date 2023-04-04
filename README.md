@@ -1,14 +1,10 @@
 # SQL To Do List
 
-# PROJECT NAME
-SQL To Do List
-
 ## Description
 
 _Duration: One Weekend_
 
 JavaScript & SQL to do list with input validation, edit and delete options.
-
 
 ## Screenshots
 
