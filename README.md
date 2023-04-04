@@ -1,19 +1,13 @@
 # SQL To Do List
 
-
-## Description
-
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
-
-
 # PROJECT NAME
 SQL To Do List
 
 ## Description
 
-_Duration: 3 Day Sprint_
+_Duration: One Weekend_
 
-SQL to do list with input validation, edit and delete options.
+JavaScript & SQL to do list with input validation, edit and delete options.
 
 
 ## Screenshots
@@ -26,10 +20,6 @@ SQL to do list with input validation, edit and delete options.
 
 ## Installation
 
-How do you get your application up and running? This is a step by step list for how another developer could get this project up and running. The good target audience in terms of knowledge, would be a fellow Primer from another cohort being able to spin up this project. Note that you do not need a paragraph here to intro Installation. It should be step-by-step.
-
-If your application has secret keys (for example --  Twilio), make sure you tell them how to set that up, both in getting the key and then what to call it in the `.env` file.
-
 1. Create a database named `weekend-to-do-app`,
 2. The queries in the `database.sql` file are set up to create all the necessary tables and populate the needed data to allow the application to run correctly. The project is built on [Postgres](https://www.postgresql.org/download/), so you will need to make sure to have that installed. We recommend using Postico to run those queries as that was used to create the queries, 
 3. Open up your editor of choice and run an `npm install`
@@ -38,9 +28,8 @@ If your application has secret keys (for example --  Twilio), make sure you tell
 6. The `npm run client` command will open up a new browser tab for you!
 
 ## Usage
-How does someone use this application? Tell a user story here.
 
-1. Enter a task, edit or delete
+1. Enter a task, edit or delete it
 2. Mark task complete
 
 ## Built With
@@ -51,4 +40,4 @@ JavaScript, SQL, jQuery, AJAX, Express, Node
 Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality.
 
 ## Support
-If you have suggestions or issues, please message me here [github.com/heidign](https://github.com/heidign)
+If you have suggestions or issues, please message me here on [GitHub](https://github.com/heidign)
